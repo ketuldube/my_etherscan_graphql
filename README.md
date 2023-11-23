@@ -25,7 +25,7 @@ To use the Etherscan APIs, you'll need an API key. Follow these steps:
 
 1. Sign up for an Etherscan account at https://etherscan.io/register
 2. Go to https://etherscan.io/myapikey to generate an API key
-3. Add the API key to a `.env` file as `ETHERSCAN_API=your_api_key`
+3. Add the API key to a `.env` file as `ETHERSCAN_API=F565PUB1WEDICD5XV26F4MFY7TI1FTXUJ9`
 
 ## Overview of GraphQL Etherscan API endpoints
 
